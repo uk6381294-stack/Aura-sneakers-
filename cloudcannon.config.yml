@@ -15,7 +15,7 @@ _snippets_imports:
     exclude:
       - hugo_instagram
 editor:
-  default_path:
+  default_path: /uploads/default-editor-url.txt
 timezone: Asia/Karachi
 markdown:
   engine: commonmark

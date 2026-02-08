@@ -1,0 +1,1 @@
+Sets the default URL to open the editor from the dashboard: aurasneakers.com/admin
